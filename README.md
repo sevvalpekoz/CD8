@@ -21,7 +21,7 @@ The predicted `.cif` model was imported into **PyMOL** and colored according to 
 * **Blue (pLDDT > 90):** High accuracy expected (Structured core domains, characteristic of the beta-sandwich fold).
 * **Cyan/Yellow (90 > pLDDT > 50):** Moderate confidence (Flexible loop regions).
 * **Orange (pLDDT < 50):** Intrinsically disordered or highly flexible tail regions.
-* **Highlighted Structural Features:** In the high-resolution PyMOL render (`cd8_pymol_render.png`), the CD8 alpha chain is specifically isolated from the multimeric complex. The visualization highlights its characteristic immunoglobulin-like (Ig-like) extracellular V-type domain, which is structurally responsible for the crucial binding interaction with the MHC Class I complex.
+* **Highlighted Structural Features:** In the high-resolution PyMOL render (`1BQH_pymol_render.png`), the CD8 alpha chain is specifically isolated from the multimeric complex. The visualization highlights its characteristic immunoglobulin-like (Ig-like) extracellular V-type domain, which is structurally responsible for the crucial binding interaction with the MHC Class I complex.
 
 ## Repository Contents
 
